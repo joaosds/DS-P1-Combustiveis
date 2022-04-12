@@ -3,6 +3,7 @@
 
 
 Dataset: https://www.kaggle.com/datasets/matheusfreitag/gas-prices-in-brazil
+Fonte: https://www.gov.br/anp/pt-br/assuntos/precos-e-defesa-da-concorrencia/precos/precos-revenda-e-de-distribuicao-combustiveis/serie-historica-do-levantamento-de-precos
 
 Esse é o repositório do arquivo .ipynb da análise de dados, referente ao artigo escrito por Henrique Alves e João Augusto.
 
